@@ -1,0 +1,8 @@
+<resources>
+    <!-- اسم التطبيق -->
+    <string name="app_name">News App</string>
+
+    <!-- Facebook App ID و Client Token -->
+    <string name="facebook_app_id">1349440482979432</string>
+    <string name="facebook_client_token">1b3df138cf3f3bfb9c3e05d0ea2bf711</string>
+</resources>

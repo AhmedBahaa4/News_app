@@ -1,0 +1,19 @@
+# Use the recommended Flutter lints as base
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # اقترح استخدام const لكل الWidgets الممكنة
+    prefer_const_constructors: true
+    prefer_const_literals_to_create_immutables: true
+
+    # اقترح استخدام final لكل الحقول الممكنة
+    prefer_final_fields: true
+
+    # امنع استخدام print في الكود
+    avoid_print: true
+
+    # اختيارات إضافية لتحسين الأداء والممارسات الجيدة
+    prefer_final_in_for_each: true
+    prefer_final_locals: true
+    always_put_control_body_on_new_line: true
