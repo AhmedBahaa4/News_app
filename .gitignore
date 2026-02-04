@@ -32,6 +32,8 @@ migrate_working_dir/
 .pub/
 /build/
 /coverage/
+**/build/
+android/build/
 
 # Node / backend
 node_modules/
